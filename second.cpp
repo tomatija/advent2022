@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-//test
+//test2
 int main()
 {
    ifstream InputFile("input.txt");
